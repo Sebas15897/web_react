@@ -1,4 +1,4 @@
-# holbertonschool-web_react
+# web_react
 
 * This part of the curriculum will focus on Frontend ReactJS technologies.
 
